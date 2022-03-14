@@ -1,7 +1,7 @@
 
 ### Hey, I'm Digital! 👋
 
-I'm a Web Developer & Java Developer.
+I'm a Student & Developer and I currently live in Florida!
 
 ### Current Projects 📓
 
