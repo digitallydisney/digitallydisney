@@ -1,7 +1,7 @@
 
 ### Hey, I'm Digital! 👋
 
-I'm a 15 year old Web Developer & Java Developer.
+I'm a Web Developer & Java Developer.
 
 ### Current Projects 📓
 
